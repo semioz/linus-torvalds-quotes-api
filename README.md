@@ -1,5 +1,5 @@
 # linus-torvalds-quotes-api
-An API for random Linus Torvalds quotes.
+#An API for random Linus Torvalds quotes.
 
 ```
 GET -> https://torvalds-quotes.herokuapp.com/
