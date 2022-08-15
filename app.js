@@ -14,7 +14,7 @@ const quotes = linus => {
     }
 }
 
-app.get("/quote", (req, res) => {
+app.get("/", (req, res) => {
     res.send(quotes(quotesJson))
 });
 
