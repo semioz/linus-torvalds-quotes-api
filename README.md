@@ -3,7 +3,9 @@ An API for random Linus Torvalds quotes.
 
 ```
 GET -> https://torvalds-quotes.herokuapp.com/
+```
 
+```
 {
 "quote":"An ugly system is one in which there are special interfaces for everything you want to do. Unix is the opposite. It gives you the building blocks that are sufficient for doing everything. That's what having a clean design is all about."
 }
