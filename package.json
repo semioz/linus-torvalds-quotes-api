@@ -1,0 +1,19 @@
+{
+    "name": "linus-torvalds-quotes-api",
+    "version": "1.0.0",
+    "description": "quotes-api",
+    "main": "app.js",
+    "engines": {
+        "node": "16.x"
+    },
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Semih Berkay Öztürk",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.1",
+        "express": "^4.18.1"
+    }
+}
